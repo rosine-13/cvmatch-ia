@@ -19,6 +19,22 @@ Les candidats déposent leur CV au format PDF. Les recruteurs décrivent le prof
 
 ---
 
+---
+
+## 📸 Aperçu de l'interface
+
+### 🏠 Page d'accueil
+![Page d'accueil](screenshots/index.jpeg)
+
+### 👤 Espace Candidat
+![Dashboard Candidat](screenshots/dashboard_candidat.jpeg)
+
+### 🏢 Espace Recruteur
+![Dashboard Recruteur](screenshots/recruiter_dashboard.jpeg)
+
+
+---
+
 ## ✨ Fonctionnalités
 
 ### 👤 Espace Candidat

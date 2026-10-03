@@ -646,7 +646,7 @@
         </div>
         <hr class="border-secondary my-4">
         <div class="text-center small">
-            © 2026 CVMatch IA - Projet de démonstration | Développé avec ❤️
+            © 2026 CVMatch IA - Projet de démonstration | Développé par Kossia Rosine AMOSSI
         </div>
     </div>
 </footer>
